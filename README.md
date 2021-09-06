@@ -11,7 +11,7 @@
 # バージョン
 現在利用できるバージョンは、
 
-1.17 ~
+1.17 ~ (動作確認済)
 
 1.16.2 ~ 1.16.5 (まだ動作確認していません)
 
@@ -33,7 +33,7 @@ For example, the Repeating Command Block becomes an Impulse Command Block, or yo
 # Version
 Currently available versions
 
-1.17 ~
+1.17 ~ (operation confirmed)
 
 1.16.2 ~ 1.16.5 (not confirmed the operation yet)
 
