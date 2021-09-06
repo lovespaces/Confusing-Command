@@ -1,0 +1,12 @@
+{
+  "block.minecraft.command_block": "Command Block",
+  "block.minecraft.repeating_command_block": "Command Block",
+  "block.minecraft.chain_command_block": "Command Block",
+  "advMode.mode.sequence": "???",
+  "advMode.mode.auto": "???",
+  "advMode.mode.redstone": "???",
+  "advMode.mode.conditional": "???",
+  "advMode.mode.unconditional": "???",
+  "advMode.mode.redstoneTriggered": "???",
+  "advMode.mode.autoexec.bat": "???"
+}
