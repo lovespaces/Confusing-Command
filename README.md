@@ -12,6 +12,7 @@
 現在利用できるバージョンは、
 
 1.17 ~
+
 1.16.2 ~ 1.16.5 (まだ動作確認していません)
 
 です。アップデートで1.9まで利用できるようにする予定です。
@@ -33,6 +34,7 @@ For example, the Repeating Command Block becomes an Impulse Command Block, or yo
 Currently available versions
 
 1.17 ~
+
 1.16.2 ~ 1.16.5 (not confirmed the operation yet)
 
 is. We plan to make it available up to 1.9 with an update.
