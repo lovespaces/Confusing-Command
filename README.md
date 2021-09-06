@@ -13,7 +13,7 @@
 
 1.17 ~ (動作確認済)
 
-1.16.2 ~ 1.16.5 (まだ動作確認していません)
+1.16.2 ~ 1.16.5 (動作確認済)
 
 です。アップデートで1.9まで利用できるようにする予定です。
 
@@ -35,7 +35,7 @@ Currently available versions
 
 1.17 ~ (operation confirmed)
 
-1.16.2 ~ 1.16.5 (not confirmed the operation yet)
+1.16.2 ~ 1.16.5 (operation confirmed)
 
 is. We plan to make it available up to 1.9 with an update.
 
